@@ -1,0 +1,14 @@
+{
+    "name": "moisesoliveira/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Moises Oliveira",
+            "email": "moiss.peol@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
