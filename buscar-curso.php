@@ -7,3 +7,4 @@ $resposta = $client->request('GET', 'https://www.alura.com.br/cursos-online-prog
 
 $html = $resposta->getBody();
 
+
